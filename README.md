@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi I'm Tony 👨🏻
 
-<!--
-**immannino/immannino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to make ~shitty~ fun websites and play around with the web
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" alt="Whale hello" height="200px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<a href="https://talk.spaghet.me" target="_blank">talk.spaghet.me</a>
+> 100% client-side web based text to speech tool to send people little audio snippets.
+
+<a href="https://immannino.github.io/SpotifyTelevision" target="_blank">Spotify Television</a>
+> Little app for viewing the music videos for your Spotify Library
+
+Add me on [Pokemon Go](https://mannino.dev/pogo/)
+
+---
+Personal Site: [mannino.dev](https://mannino.dev) | Check me out on  [@Glitch](https://glitch.com/@immannino) | [Twitter](http://twitter.com/immannino)
