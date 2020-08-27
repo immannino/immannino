@@ -9,7 +9,7 @@
 
 I like to make ~shitty~ fun websites and play around with the web
 
-![page count](https://github-readme-budddy.glitch.me/img/page_count.svg)
+![page count no cache](https://github-readme-budddy.glitch.me/img/page_count.svg)
 
 ---
 
