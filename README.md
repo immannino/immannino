@@ -9,7 +9,7 @@
 
 I like to make ~shitty~ fun websites and play around with the web
 
-<img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" alt="Whale hello" height="200px">
+![page count](https://github-readme-budddy.glitch.me/img/page_count.svg)
 
 ---
 
