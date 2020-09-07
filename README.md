@@ -22,4 +22,6 @@ I like to make ~shitty~ fun websites and play around with the web
 Add me on [Pokemon Go](https://mannino.dev/pogo/)
 
 ---
-Personal Site: [mannino.dev](https://mannino.dev) | Check me out on  [@Glitch](https://glitch.com/@immannino) | [Twitter](http://twitter.com/immannino)
+Personal Site: [spaghet.me](https://mannino.dev) | Check me out on  [@Glitch](https://glitch.com/@immannino) | [Twitter](http://twitter.com/immannino)
+
+![Pokemon Go](https://immannino-pogo-player-card-api.glitch.me/GoodBarn/041459887356/?style=mystic)
