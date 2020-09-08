@@ -24,4 +24,4 @@ Add me on [Pokemon Go](https://mannino.dev/pogo/)
 ---
 Personal Site: [spaghet.me](https://mannino.dev) | Check me out on  [@Glitch](https://glitch.com/@immannino) | [Twitter](http://twitter.com/immannino)
 
-![Pokemon Go](https://immannino-pogo-player-card-api.glitch.me/GoodBarn/041459887356/?style=mystic)
+![Pokemon Go](https://immannino-pogo-player-card-api.glitch.me/GoodBarn/0414-5988-7356/?style=mystic)
