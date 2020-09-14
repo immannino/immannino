@@ -25,6 +25,7 @@ Add me on [Pokemon Go](https://mannino.dev/pogo/)
 Personal Site: [spaghet.me](https://mannino.dev) | Check me out on  [@Glitch](https://glitch.com/@immannino) | [Twitter](http://twitter.com/immannino)
 
 Add me on Pokemon Go!
+
 ![Pokemon Go](https://pkmngo-me.glitch.me/GoodBarn/0414-5988-7356/?style=map)
 
 <sup>[Create your own Pokemon Go Trainer Card](https://pkmngo-me.glitch.me)</sup>
