@@ -37,6 +37,7 @@ Personal Site: [spaghet.me](https://v2.spaghet.me) | [Twitter](http://twitter.co
 
 Add me on Pokemon Go!
 
-![Pokemon Go](https://www.pkmngo.me/GoodBarn/0414-5988-7356/card.svg?style=map)
+![Pokemon Go](https://pkmngo-me.glitch.me/GoodBarn/0414-5988-7356/card.svg?style=map)
 
 <sup>[Create your own Pokemon Go Trainer Card](https://pkmngo-me.glitch.me)</sup>
+
