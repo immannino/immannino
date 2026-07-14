@@ -11,23 +11,5 @@ I like to make ~shitty~ fun websites and play around with the web
 
 ---
 
-<a href="https://talk.spaghet.me" target="_blank">talk.spaghet.me</a>
-> 100% client-side web based text to speech tool to send people little audio snippets.
-
-<a href="https://timer.spaghet.me/" target="_blank">https://timer.spaghet.me/</a>
-> A simple timer with notifications.
-
-<a href="https://immannino.github.io/SpotifyTelevision" target="_blank">Spotify Television</a>
-> App for viewing the music videos for your Spotify Library
-
-<a href="https://tv-lite.spaghet.me" target="_blank">Spotify Television - <i>Lite</i></a>
-> Little app for viewing the music videos for your Spotify Library. Syncs to currently playing Spotify song.
-
-<a href="https://sheesh.spaghet.me" target="_blank">Sheesh Me - Spotify App</a>
-> Little app for generating Spotify Playlists that spell out certain words
-
-Add me on [Pokemon Go](https://mannino.dev/pogo/)
-
----
 Personal Site: [mannino.dev](https://mannino.dev) | [Twitter](http://twitter.com/immannino) | Craft Insta [https://www.instagram.com/good.barn]
 
